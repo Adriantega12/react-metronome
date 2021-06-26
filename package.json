@@ -1,0 +1,19 @@
+{
+  "name": "react-metronome",
+  "version": "1.0.0",
+  "description": "Trying to create a project with React from scratch",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Adriantega12/react-metronome.git"
+  },
+  "author": "Adrian Terrazas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adriantega12/react-metronome/issues"
+  },
+  "homepage": "https://github.com/Adriantega12/react-metronome#readme"
+}
