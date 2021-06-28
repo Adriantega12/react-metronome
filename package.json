@@ -2,6 +2,16 @@
   "name": "react-metronome",
   "version": "0.1.0",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Adriantega12/react-metronome.git"
+  },
+  "author": "Adrian Terrazas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adriantega12/react-metronome/issues"
+  },
+  "homepage": "https://github.com/Adriantega12/react-metronome#readme",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
